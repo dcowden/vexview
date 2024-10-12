@@ -1,0 +1,3417 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https://www.robotevents.com/api/v2/events/51571/divisions/1/matches?page=1",
+    "from": 1,
+    "last_page": 2,
+    "last_page_url": "https://www.robotevents.com/api/v2/events/51571/divisions/1/matches?page=2",
+    "next_page_url": "https://www.robotevents.com/api/v2/events/51571/divisions/1/matches?page=2",
+    "path": "https://www.robotevents.com/api/v2/events/51571/divisions/1/matches",
+    "per_page": 50,
+    "prev_page_url": null,
+    "to": 50,
+    "total": 78
+  },
+  "data": [
+    {
+      "id": 56679310,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": "2023-10-14T10:30:00-04:00",
+      "started": "2023-10-14T10:39:09-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 87,
+          "teams": [
+            {
+              "team": {
+                "id": 82428,
+                "name": "8686B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142293,
+                "name": "44252N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 75,
+          "teams": [
+            {
+              "team": {
+                "id": 134162,
+                "name": "415J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 124097,
+                "name": "15545B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679311,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 2,
+      "scheduled": "2023-10-14T10:33:30-04:00",
+      "started": "2023-10-14T10:44:23-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #2",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 61,
+          "teams": [
+            {
+              "team": {
+                "id": 40300,
+                "name": "415A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 51412,
+                "name": "415B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 40,
+          "teams": [
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 57403,
+                "name": "8686N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679312,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 3,
+      "scheduled": "2023-10-14T10:37:00-04:00",
+      "started": "2023-10-14T10:50:40-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #3",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 37,
+          "teams": [
+            {
+              "team": {
+                "id": 153797,
+                "name": "15545E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142549,
+                "name": "2010A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 89,
+          "teams": [
+            {
+              "team": {
+                "id": 51414,
+                "name": "415D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 85086,
+                "name": "415E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679313,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 4,
+      "scheduled": "2023-10-14T10:40:30-04:00",
+      "started": "2023-10-14T10:55:08-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #4",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 92,
+          "teams": [
+            {
+              "team": {
+                "id": 82065,
+                "name": "33249A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142576,
+                "name": "9447W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 91,
+          "teams": [
+            {
+              "team": {
+                "id": 139829,
+                "name": "3796K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 139828,
+                "name": "3796J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679314,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 5,
+      "scheduled": "2023-10-14T10:44:00-04:00",
+      "started": "2023-10-14T10:59:24-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #5",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 137,
+          "teams": [
+            {
+              "team": {
+                "id": 134585,
+                "name": "65162A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142507,
+                "name": "65162C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 106,
+          "teams": [
+            {
+              "team": {
+                "id": 153798,
+                "name": "15545G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 134163,
+                "name": "415K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679315,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 6,
+      "scheduled": "2023-10-14T10:47:30-04:00",
+      "started": "2023-10-14T11:02:55-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #6",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 73,
+          "teams": [
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 71904,
+                "name": "29601R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 116,
+          "teams": [
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 97988,
+                "name": "97735X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679316,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 7,
+      "scheduled": "2023-10-14T10:51:00-04:00",
+      "started": "2023-10-14T11:07:42-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #7",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 54,
+          "teams": [
+            {
+              "team": {
+                "id": 128444,
+                "name": "15545C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 124096,
+                "name": "15545A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 45,
+          "teams": [
+            {
+              "team": {
+                "id": 134587,
+                "name": "65162B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 131220,
+                "name": "3796G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679317,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 8,
+      "scheduled": "2023-10-14T10:54:30-04:00",
+      "started": "2023-10-14T11:15:02-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #8",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 80,
+          "teams": [
+            {
+              "team": {
+                "id": 95094,
+                "name": "9447G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 99392,
+                "name": "3796D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 60,
+          "teams": [
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 84758,
+                "name": "91169A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679318,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 9,
+      "scheduled": "2023-10-14T10:58:00-04:00",
+      "started": "2023-10-14T11:23:05-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #9",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 109,
+          "teams": [
+            {
+              "team": {
+                "id": 63747,
+                "name": "3796A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 70,
+          "teams": [
+            {
+              "team": {
+                "id": 133394,
+                "name": "79267V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679319,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 10,
+      "scheduled": "2023-10-14T11:01:30-04:00",
+      "started": "2023-10-14T11:28:03-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #10",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 75,
+          "teams": [
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 51,
+          "teams": [
+            {
+              "team": {
+                "id": 57401,
+                "name": "8686K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 158018,
+                "name": "79267S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679320,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 11,
+      "scheduled": "2023-10-14T11:05:00-04:00",
+      "started": "2023-10-14T11:33:09-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #11",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 42,
+          "teams": [
+            {
+              "team": {
+                "id": 153797,
+                "name": "15545E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 88,
+          "teams": [
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 40300,
+                "name": "415A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679321,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 12,
+      "scheduled": "2023-10-14T11:08:30-04:00",
+      "started": "2023-10-14T11:38:10-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #12",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 129,
+          "teams": [
+            {
+              "team": {
+                "id": 131220,
+                "name": "3796G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142507,
+                "name": "65162C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 74,
+          "teams": [
+            {
+              "team": {
+                "id": 82065,
+                "name": "33249A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 71904,
+                "name": "29601R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679322,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 13,
+      "scheduled": "2023-10-14T11:12:00-04:00",
+      "started": "2023-10-14T11:42:22-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #13",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 85,
+          "teams": [
+            {
+              "team": {
+                "id": 139828,
+                "name": "3796J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 51414,
+                "name": "415D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 90,
+          "teams": [
+            {
+              "team": {
+                "id": 134162,
+                "name": "415J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679323,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 14,
+      "scheduled": "2023-10-14T11:15:30-04:00",
+      "started": "2023-10-14T11:52:02-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #14",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 53,
+          "teams": [
+            {
+              "team": {
+                "id": 134163,
+                "name": "415K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 57403,
+                "name": "8686N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 90,
+          "teams": [
+            {
+              "team": {
+                "id": 142293,
+                "name": "44252N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 99392,
+                "name": "3796D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679324,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 15,
+      "scheduled": "2023-10-14T11:19:00-04:00",
+      "started": "2023-10-14T11:59:35-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #15",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 45,
+          "teams": [
+            {
+              "team": {
+                "id": 57401,
+                "name": "8686K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142576,
+                "name": "9447W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 124,
+          "teams": [
+            {
+              "team": {
+                "id": 82428,
+                "name": "8686B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679325,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 16,
+      "scheduled": "2023-10-14T11:22:30-04:00",
+      "started": "2023-10-14T12:33:43-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #16",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 34,
+          "teams": [
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 84758,
+                "name": "91169A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 98,
+          "teams": [
+            {
+              "team": {
+                "id": 124096,
+                "name": "15545A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142549,
+                "name": "2010A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679326,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 17,
+      "scheduled": "2023-10-14T11:26:00-04:00",
+      "started": "2023-10-14T12:37:59-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #17",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 68,
+          "teams": [
+            {
+              "team": {
+                "id": 128444,
+                "name": "15545C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 133394,
+                "name": "79267V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 163,
+          "teams": [
+            {
+              "team": {
+                "id": 95094,
+                "name": "9447G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679327,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 18,
+      "scheduled": "2023-10-14T11:29:30-04:00",
+      "started": "2023-10-14T12:48:44-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #18",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 48,
+          "teams": [
+            {
+              "team": {
+                "id": 139829,
+                "name": "3796K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 158018,
+                "name": "79267S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 76,
+          "teams": [
+            {
+              "team": {
+                "id": 134585,
+                "name": "65162A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 85086,
+                "name": "415E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679328,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 19,
+      "scheduled": "2023-10-14T11:33:00-04:00",
+      "started": "2023-10-14T12:50:50-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #19",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 63,
+          "teams": [
+            {
+              "team": {
+                "id": 124097,
+                "name": "15545B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 113,
+          "teams": [
+            {
+              "team": {
+                "id": 51412,
+                "name": "415B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 153798,
+                "name": "15545G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679329,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 20,
+      "scheduled": "2023-10-14T11:36:30-04:00",
+      "started": "2023-10-14T12:53:50-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #20",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 76,
+          "teams": [
+            {
+              "team": {
+                "id": 134587,
+                "name": "65162B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 97988,
+                "name": "97735X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 98,
+          "teams": [
+            {
+              "team": {
+                "id": 63747,
+                "name": "3796A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679330,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 21,
+      "scheduled": "2023-10-14T11:40:00-04:00",
+      "started": "2023-10-14T12:58:35-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #21",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 154,
+          "teams": [
+            {
+              "team": {
+                "id": 142293,
+                "name": "44252N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 58,
+          "teams": [
+            {
+              "team": {
+                "id": 153797,
+                "name": "15545E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679331,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 22,
+      "scheduled": "2023-10-14T11:43:30-04:00",
+      "started": "2023-10-14T13:07:35-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #22",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 115,
+          "teams": [
+            {
+              "team": {
+                "id": 134162,
+                "name": "415J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142549,
+                "name": "2010A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 43,
+          "teams": [
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 57401,
+                "name": "8686K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679332,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 23,
+      "scheduled": "2023-10-14T11:47:00-04:00",
+      "started": "2023-10-14T13:13:31-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #23",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 65,
+          "teams": [
+            {
+              "team": {
+                "id": 40300,
+                "name": "415A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 82428,
+                "name": "8686B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 110,
+          "teams": [
+            {
+              "team": {
+                "id": 139829,
+                "name": "3796K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 131220,
+                "name": "3796G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679333,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 24,
+      "scheduled": "2023-10-14T11:50:30-04:00",
+      "started": "2023-10-14T13:17:36-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #24",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 36,
+          "teams": [
+            {
+              "team": {
+                "id": 134585,
+                "name": "65162A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 99392,
+                "name": "3796D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 67,
+          "teams": [
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 82065,
+                "name": "33249A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679334,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 25,
+      "scheduled": "2023-10-14T11:54:00-04:00",
+      "started": "2023-10-14T13:20:38-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #25",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 49,
+          "teams": [
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 85086,
+                "name": "415E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 92,
+          "teams": [
+            {
+              "team": {
+                "id": 51412,
+                "name": "415B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 97988,
+                "name": "97735X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679335,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 26,
+      "scheduled": "2023-10-14T11:57:30-04:00",
+      "started": "2023-10-14T13:26:41-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #26",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 64,
+          "teams": [
+            {
+              "team": {
+                "id": 153798,
+                "name": "15545G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 86,
+          "teams": [
+            {
+              "team": {
+                "id": 57403,
+                "name": "8686N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63747,
+                "name": "3796A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679336,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 27,
+      "scheduled": "2023-10-14T12:30:00-04:00",
+      "started": "2023-10-14T13:31:09-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #27",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 101,
+          "teams": [
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 133394,
+                "name": "79267V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 131,
+          "teams": [
+            {
+              "team": {
+                "id": 84758,
+                "name": "91169A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142507,
+                "name": "65162C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679337,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 28,
+      "scheduled": "2023-10-14T12:33:30-04:00",
+      "started": "2023-10-14T13:35:30-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #28",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 144,
+          "teams": [
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 95094,
+                "name": "9447G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 64,
+          "teams": [
+            {
+              "team": {
+                "id": 134587,
+                "name": "65162B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 51414,
+                "name": "415D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679338,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 29,
+      "scheduled": "2023-10-14T12:37:00-04:00",
+      "started": "2023-10-14T13:39:18-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #29",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 111,
+          "teams": [
+            {
+              "team": {
+                "id": 71904,
+                "name": "29601R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 158018,
+                "name": "79267S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 100,
+          "teams": [
+            {
+              "team": {
+                "id": 124097,
+                "name": "15545B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679339,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 30,
+      "scheduled": "2023-10-14T12:40:30-04:00",
+      "started": "2023-10-14T13:42:43-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #30",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 115,
+          "teams": [
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 22,
+          "teams": [
+            {
+              "team": {
+                "id": 142576,
+                "name": "9447W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 124096,
+                "name": "15545A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679340,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 31,
+      "scheduled": "2023-10-14T12:44:00-04:00",
+      "started": "2023-10-14T13:46:29-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #31",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 64,
+          "teams": [
+            {
+              "team": {
+                "id": 139828,
+                "name": "3796J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 85086,
+                "name": "415E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 36,
+          "teams": [
+            {
+              "team": {
+                "id": 134163,
+                "name": "415K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 128444,
+                "name": "15545C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679341,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 32,
+      "scheduled": "2023-10-14T12:47:30-04:00",
+      "started": "2023-10-14T13:52:06-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #32",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 43,
+          "teams": [
+            {
+              "team": {
+                "id": 153798,
+                "name": "15545G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 99392,
+                "name": "3796D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 27,
+          "teams": [
+            {
+              "team": {
+                "id": 153797,
+                "name": "15545E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 82428,
+                "name": "8686B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679342,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 33,
+      "scheduled": "2023-10-14T12:51:00-04:00",
+      "started": "2023-10-14T13:55:29-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #33",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 48,
+          "teams": [
+            {
+              "team": {
+                "id": 82065,
+                "name": "33249A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63747,
+                "name": "3796A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 99,
+          "teams": [
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 40300,
+                "name": "415A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679343,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 34,
+      "scheduled": "2023-10-14T12:54:30-04:00",
+      "started": "2023-10-14T13:59:27-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #34",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 113,
+          "teams": [
+            {
+              "team": {
+                "id": 131220,
+                "name": "3796G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 77,
+          "teams": [
+            {
+              "team": {
+                "id": 158018,
+                "name": "79267S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679344,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 35,
+      "scheduled": "2023-10-14T12:58:00-04:00",
+      "started": "2023-10-14T14:03:40-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #35",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 59,
+          "teams": [
+            {
+              "team": {
+                "id": 51412,
+                "name": "415B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 139829,
+                "name": "3796K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 161,
+          "teams": [
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142549,
+                "name": "2010A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679345,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 36,
+      "scheduled": "2023-10-14T13:01:30-04:00",
+      "started": "2023-10-14T14:07:29-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #36",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 75,
+          "teams": [
+            {
+              "team": {
+                "id": 134163,
+                "name": "415K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 37,
+          "teams": [
+            {
+              "team": {
+                "id": 142576,
+                "name": "9447W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 133394,
+                "name": "79267V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679346,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 37,
+      "scheduled": "2023-10-14T13:05:00-04:00",
+      "started": "2023-10-14T14:10:32-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #37",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 88,
+          "teams": [
+            {
+              "team": {
+                "id": 57401,
+                "name": "8686K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 139828,
+                "name": "3796J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 46,
+          "teams": [
+            {
+              "team": {
+                "id": 134585,
+                "name": "65162A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679347,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 38,
+      "scheduled": "2023-10-14T13:08:30-04:00",
+      "started": "2023-10-14T14:13:57-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #38",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 104,
+          "teams": [
+            {
+              "team": {
+                "id": 124097,
+                "name": "15545B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 61,
+          "teams": [
+            {
+              "team": {
+                "id": 57403,
+                "name": "8686N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679348,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 39,
+      "scheduled": "2023-10-14T13:12:00-04:00",
+      "started": "2023-10-14T14:20:12-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #39",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 73,
+          "teams": [
+            {
+              "team": {
+                "id": 97988,
+                "name": "97735X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 124096,
+                "name": "15545A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 168,
+          "teams": [
+            {
+              "team": {
+                "id": 95094,
+                "name": "9447G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142293,
+                "name": "44252N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679349,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 40,
+      "scheduled": "2023-10-14T13:15:30-04:00",
+      "started": "2023-10-14T14:25:33-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #40",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 105,
+          "teams": [
+            {
+              "team": {
+                "id": 51414,
+                "name": "415D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 128444,
+                "name": "15545C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 112,
+          "teams": [
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142507,
+                "name": "65162C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679350,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 41,
+      "scheduled": "2023-10-14T13:19:00-04:00",
+      "started": "2023-10-14T14:29:07-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #41",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 99,
+          "teams": [
+            {
+              "team": {
+                "id": 84758,
+                "name": "91169A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 134162,
+                "name": "415J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 46,
+          "teams": [
+            {
+              "team": {
+                "id": 71904,
+                "name": "29601R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 134587,
+                "name": "65162B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679351,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 42,
+      "scheduled": "2023-10-14T13:22:30-04:00",
+      "started": "2023-10-14T14:32:13-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #42",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 102,
+          "teams": [
+            {
+              "team": {
+                "id": 85086,
+                "name": "415E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 133394,
+                "name": "79267V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 66,
+          "teams": [
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 131220,
+                "name": "3796G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679352,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 43,
+      "scheduled": "2023-10-14T13:26:00-04:00",
+      "started": "2023-10-14T14:35:53-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #43",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 83,
+          "teams": [
+            {
+              "team": {
+                "id": 134163,
+                "name": "415K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 54,
+          "teams": [
+            {
+              "team": {
+                "id": 139829,
+                "name": "3796K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 153797,
+                "name": "15545E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679353,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 44,
+      "scheduled": "2023-10-14T13:29:30-04:00",
+      "started": "2023-10-14T14:39:23-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #44",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 139,
+          "teams": [
+            {
+              "team": {
+                "id": 95094,
+                "name": "9447G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 57403,
+                "name": "8686N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 61,
+          "teams": [
+            {
+              "team": {
+                "id": 139828,
+                "name": "3796J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679354,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 45,
+      "scheduled": "2023-10-14T13:33:00-04:00",
+      "started": "2023-10-14T14:45:44-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #45",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 125,
+          "teams": [
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142507,
+                "name": "65162C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 70,
+          "teams": [
+            {
+              "team": {
+                "id": 124096,
+                "name": "15545A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 158018,
+                "name": "79267S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679355,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 46,
+      "scheduled": "2023-10-14T13:36:30-04:00",
+      "started": "2023-10-14T14:48:51-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #46",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 113,
+          "teams": [
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 82065,
+                "name": "33249A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 95,
+          "teams": [
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 134162,
+                "name": "415J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679356,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 47,
+      "scheduled": "2023-10-14T13:40:00-04:00",
+      "started": "2023-10-14T14:52:35-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #47",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 60,
+          "teams": [
+            {
+              "team": {
+                "id": 71904,
+                "name": "29601R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142293,
+                "name": "44252N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 94,
+          "teams": [
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 128444,
+                "name": "15545C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679357,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 48,
+      "scheduled": "2023-10-14T13:43:30-04:00",
+      "started": "2023-10-14T14:56:47-04:00",
+      "field": "Field 3",
+      "scored": false,
+      "name": "Qualifier #48",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 52,
+          "teams": [
+            {
+              "team": {
+                "id": 84758,
+                "name": "91169A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 79,
+          "teams": [
+            {
+              "team": {
+                "id": 51412,
+                "name": "415B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 82428,
+                "name": "8686B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679358,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 49,
+      "scheduled": "2023-10-14T13:47:00-04:00",
+      "started": "2023-10-14T15:01:36-04:00",
+      "field": "Field 1",
+      "scored": false,
+      "name": "Qualifier #49",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 133,
+          "teams": [
+            {
+              "team": {
+                "id": 40300,
+                "name": "415A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 97988,
+                "name": "97735X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 33,
+          "teams": [
+            {
+              "team": {
+                "id": 57401,
+                "name": "8686K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 99392,
+                "name": "3796D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    },
+    {
+      "id": 56679359,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 50,
+      "scheduled": "2023-10-14T13:50:30-04:00",
+      "started": "2023-10-14T15:06:35-04:00",
+      "field": "Field 2",
+      "scored": false,
+      "name": "Qualifier #50",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 106,
+          "teams": [
+            {
+              "team": {
+                "id": 134585,
+                "name": "65162A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 51414,
+                "name": "415D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 62,
+          "teams": [
+            {
+              "team": {
+                "id": 124097,
+                "name": "15545B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142576,
+                "name": "9447W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2023-10-14T18:26:34-04:00"
+    }
+  ]
+}

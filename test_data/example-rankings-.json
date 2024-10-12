@@ -1,0 +1,717 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https://www.robotevents.com/api/v2/events/51571/divisions/1/rankings?page=1",
+    "from": 1,
+    "last_page": 2,
+    "last_page_url": "https://www.robotevents.com/api/v2/events/51571/divisions/1/rankings?page=2",
+    "next_page_url": "https://www.robotevents.com/api/v2/events/51571/divisions/1/rankings?page=2",
+    "path": "https://www.robotevents.com/api/v2/events/51571/divisions/1/rankings",
+    "per_page": 25,
+    "prev_page_url": null,
+    "to": 25,
+    "total": 41
+  },
+  "data": [
+    {
+      "id": 16989450,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 41,
+      "team": {
+        "id": 153797,
+        "name": "15545E",
+        "code": null
+      },
+      "wins": 0,
+      "losses": 6,
+      "ties": 0,
+      "wp": 0,
+      "ap": 24,
+      "sp": 258,
+      "high_score": 58,
+      "average_points": 43,
+      "total_points": 258
+    },
+    {
+      "id": 16989449,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 40,
+      "team": {
+        "id": 142576,
+        "name": "9447W",
+        "code": null
+      },
+      "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "wp": 2,
+      "ap": 0,
+      "sp": 344,
+      "high_score": 92,
+      "average_points": 57.5,
+      "total_points": 345
+    },
+    {
+      "id": 16989448,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 39,
+      "team": {
+        "id": 158018,
+        "name": "79267S",
+        "code": null
+      },
+      "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "wp": 2,
+      "ap": 16,
+      "sp": 420,
+      "high_score": 111,
+      "average_points": 71.83,
+      "total_points": 431
+    },
+    {
+      "id": 16989447,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 38,
+      "team": {
+        "id": 110304,
+        "name": "3796F",
+        "code": null
+      },
+      "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "wp": 2,
+      "ap": 20,
+      "sp": 365,
+      "high_score": 113,
+      "average_points": 63.83,
+      "total_points": 383
+    },
+    {
+      "id": 16989446,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 37,
+      "team": {
+        "id": 131221,
+        "name": "3796H",
+        "code": null
+      },
+      "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "wp": 2,
+      "ap": 20,
+      "sp": 366,
+      "high_score": 101,
+      "average_points": 65,
+      "total_points": 390
+    },
+    {
+      "id": 16989445,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 36,
+      "team": {
+        "id": 103604,
+        "name": "3796E",
+        "code": null
+      },
+      "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "wp": 2,
+      "ap": 20,
+      "sp": 378,
+      "high_score": 116,
+      "average_points": 70.17,
+      "total_points": 421
+    },
+    {
+      "id": 16989444,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 35,
+      "team": {
+        "id": 139829,
+        "name": "3796K",
+        "code": null
+      },
+      "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "wp": 2,
+      "ap": 24,
+      "sp": 406,
+      "high_score": 110,
+      "average_points": 75.17,
+      "total_points": 451
+    },
+    {
+      "id": 16989443,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 34,
+      "team": {
+        "id": 71904,
+        "name": "29601R",
+        "code": null
+      },
+      "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "wp": 3,
+      "ap": 20,
+      "sp": 402,
+      "high_score": 111,
+      "average_points": 68.83,
+      "total_points": 413
+    },
+    {
+      "id": 16989442,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 33,
+      "team": {
+        "id": 57401,
+        "name": "8686K",
+        "code": null
+      },
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "wp": 4,
+      "ap": 4,
+      "sp": 258,
+      "high_score": 88,
+      "average_points": 50.5,
+      "total_points": 303
+    },
+    {
+      "id": 16989441,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 32,
+      "team": {
+        "id": 134587,
+        "name": "65162B",
+        "code": null
+      },
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "wp": 4,
+      "ap": 8,
+      "sp": 309,
+      "high_score": 89,
+      "average_points": 60.5,
+      "total_points": 363
+    },
+    {
+      "id": 16989440,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 31,
+      "team": {
+        "id": 133394,
+        "name": "79267V",
+        "code": null
+      },
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "wp": 4,
+      "ap": 8,
+      "sp": 391,
+      "high_score": 102,
+      "average_points": 71.67,
+      "total_points": 430
+    },
+    {
+      "id": 16989439,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 30,
+      "team": {
+        "id": 124097,
+        "name": "15545B",
+        "code": null
+      },
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "wp": 4,
+      "ap": 16,
+      "sp": 419,
+      "high_score": 104,
+      "average_points": 78.17,
+      "total_points": 469
+    },
+    {
+      "id": 16989438,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 29,
+      "team": {
+        "id": 73058,
+        "name": "3796C",
+        "code": null
+      },
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "wp": 4,
+      "ap": 24,
+      "sp": 362,
+      "high_score": 154,
+      "average_points": 82.67,
+      "total_points": 496
+    },
+    {
+      "id": 16989437,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 28,
+      "team": {
+        "id": 84758,
+        "name": "91169A",
+        "code": null
+      },
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "wp": 4,
+      "ap": 24,
+      "sp": 367,
+      "high_score": 131,
+      "average_points": 75,
+      "total_points": 450
+    },
+    {
+      "id": 16989436,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 27,
+      "team": {
+        "id": 128444,
+        "name": "15545C",
+        "code": null
+      },
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "wp": 4,
+      "ap": 24,
+      "sp": 375,
+      "high_score": 105,
+      "average_points": 69.67,
+      "total_points": 418
+    },
+    {
+      "id": 16989435,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 26,
+      "team": {
+        "id": 57403,
+        "name": "8686N",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 6,
+      "ap": 12,
+      "sp": 328,
+      "high_score": 139,
+      "average_points": 71.33,
+      "total_points": 428
+    },
+    {
+      "id": 16989434,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 25,
+      "team": {
+        "id": 97988,
+        "name": "97735X",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 6,
+      "ap": 12,
+      "sp": 380,
+      "high_score": 133,
+      "average_points": 94.33,
+      "total_points": 566
+    },
+    {
+      "id": 16989433,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 24,
+      "team": {
+        "id": 82065,
+        "name": "33249A",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 6,
+      "ap": 16,
+      "sp": 420,
+      "high_score": 113,
+      "average_points": 78.33,
+      "total_points": 470
+    },
+    {
+      "id": 16989432,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 23,
+      "team": {
+        "id": 99392,
+        "name": "3796D",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 6,
+      "ap": 20,
+      "sp": 245,
+      "high_score": 96,
+      "average_points": 48,
+      "total_points": 288
+    },
+    {
+      "id": 16989431,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 22,
+      "team": {
+        "id": 124096,
+        "name": "15545A",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 6,
+      "ap": 20,
+      "sp": 333,
+      "high_score": 98,
+      "average_points": 68.83,
+      "total_points": 413
+    },
+    {
+      "id": 16989430,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 21,
+      "team": {
+        "id": 134162,
+        "name": "415J",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 6,
+      "ap": 20,
+      "sp": 334,
+      "high_score": 115,
+      "average_points": 81.67,
+      "total_points": 490
+    },
+    {
+      "id": 16989429,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 20,
+      "team": {
+        "id": 131220,
+        "name": "3796G",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 6,
+      "ap": 24,
+      "sp": 385,
+      "high_score": 129,
+      "average_points": 86.83,
+      "total_points": 521
+    },
+    {
+      "id": 16989428,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 19,
+      "team": {
+        "id": 153798,
+        "name": "15545G",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 6,
+      "ap": 32,
+      "sp": 373,
+      "high_score": 113,
+      "average_points": 81.67,
+      "total_points": 490
+    },
+    {
+      "id": 16989427,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 18,
+      "team": {
+        "id": 142549,
+        "name": "2010A",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 6,
+      "ap": 44,
+      "sp": 269,
+      "high_score": 161,
+      "average_points": 84.5,
+      "total_points": 507
+    },
+    {
+      "id": 16989426,
+      "event": {
+        "id": 51571,
+        "name": "JL Mann Season Opener (MS/HS)",
+        "code": "RE-VRC-23-1571"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "rank": 17,
+      "team": {
+        "id": 134163,
+        "name": "415K",
+        "code": null
+      },
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "wp": 7,
+      "ap": 28,
+      "sp": 364,
+      "high_score": 106,
+      "average_points": 71.83,
+      "total_points": 431
+    }
+  ]
+}

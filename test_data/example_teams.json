@@ -1,0 +1,692 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https://www.robotevents.com/api/v2/teams?page=1",
+    "from": 1,
+    "last_page": 1628,
+    "last_page_url": "https://www.robotevents.com/api/v2/teams?page=1628",
+    "next_page_url": "https://www.robotevents.com/api/v2/teams?page=2",
+    "path": "https://www.robotevents.com/api/v2/teams",
+    "per_page": 25,
+    "prev_page_url": null,
+    "to": 25,
+    "total": 40685
+  },
+  "data": [
+    {
+      "id": 7506,
+      "number": "AMES",
+      "team_name": "aMEss",
+      "robot_name": "aMEss1",
+      "organization": "Massey University",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "North Shore City",
+        "region": null,
+        "postcode": "0632",
+        "country": "New Zealand",
+        "coordinates": {
+          "lat": -36.8,
+          "lon": 174.7
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 4,
+        "name": "VEX U Robotics Competition",
+        "code": "VURC"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 9931,
+      "number": "B0004",
+      "team_name": "Canutillo High School",
+      "robot_name": null,
+      "organization": "Canutillo High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "El Paso",
+        "region": "Texas",
+        "postcode": "79912",
+        "country": "United States",
+        "coordinates": {
+          "lat": 31.8,
+          "lon": -106.5
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 9937,
+      "number": "B0010",
+      "team_name": "Alamogordo High School",
+      "robot_name": null,
+      "organization": "Alamogordo High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Alamogordo",
+        "region": "New Mexico",
+        "postcode": "88310",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.9,
+          "lon": -105.9
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 9943,
+      "number": "B0016",
+      "team_name": "Holloman Middle School",
+      "robot_name": null,
+      "organization": "Holloman Middle School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Alamogordo",
+        "region": "New Mexico",
+        "postcode": "88310",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.9,
+          "lon": -105.9
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 9946,
+      "number": "B0019",
+      "team_name": "Ysleta High School",
+      "robot_name": null,
+      "organization": "Ysleta High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "El Paso",
+        "region": "Texas",
+        "postcode": "79907",
+        "country": "United States",
+        "coordinates": {
+          "lat": 31.7,
+          "lon": -106.3
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 9949,
+      "number": "B0022",
+      "team_name": "Hereford High School",
+      "robot_name": null,
+      "organization": "Hereford High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Parkton",
+        "region": "Maryland",
+        "postcode": "21120",
+        "country": "United States",
+        "coordinates": {
+          "lat": 39.6,
+          "lon": -76.7
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 9952,
+      "number": "B0025",
+      "team_name": "White Sands Middle School",
+      "robot_name": null,
+      "organization": "White Sands Middle School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "White Sands Missile Range",
+        "region": "New Mexico",
+        "postcode": "88002",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.4,
+          "lon": -106.5
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 9967,
+      "number": "B0040",
+      "team_name": "Chile My Robot",
+      "robot_name": "Chile",
+      "organization": "Hatch Valley High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Hatch",
+        "region": "New Mexico",
+        "postcode": "87937",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.7,
+          "lon": -107.2
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10033,
+      "number": "B0052",
+      "team_name": "Ursuline Bears",
+      "robot_name": "Rerun",
+      "organization": "Ursuline Academy of Dallas",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Dallas",
+        "region": "Texas",
+        "postcode": "75229",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.9,
+          "lon": -96.9
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10036,
+      "number": "B0055",
+      "team_name": "The Fulton School Robotics Team",
+      "robot_name": "TBD",
+      "organization": "The Fulton School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Heath",
+        "region": "Texas",
+        "postcode": "75032",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.9,
+          "lon": -96.4
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10039,
+      "number": "B0058",
+      "team_name": "p-51 Mustangs",
+      "robot_name": "Air Raid",
+      "organization": "J.J. Pearce High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Richardson",
+        "region": "Texas",
+        "postcode": "75081",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.9,
+          "lon": -96.7
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10042,
+      "number": "B0061",
+      "team_name": "Team Black Hawk",
+      "robot_name": "H Bot",
+      "organization": "Rockwall Heath",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Heath",
+        "region": "Texas",
+        "postcode": "75032",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.9,
+          "lon": -96.4
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10045,
+      "number": "B0064",
+      "team_name": "W. T. White",
+      "robot_name": "W. T. White High",
+      "organization": "W. T. White High",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Dallas",
+        "region": "Texas",
+        "postcode": "75244",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.9,
+          "lon": -96.8
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10048,
+      "number": "B0067",
+      "team_name": "Garland Robotics",
+      "robot_name": "Ollie",
+      "organization": "Garland High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Garland",
+        "region": "Texas",
+        "postcode": "75040",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.9,
+          "lon": -96.6
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10051,
+      "number": "B0070",
+      "team_name": "Prairie Grove",
+      "robot_name": "The Tiger",
+      "organization": "Prairie Grove High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Prairie Grove",
+        "region": "Arkansas",
+        "postcode": "72753",
+        "country": "United States",
+        "coordinates": {
+          "lat": 36,
+          "lon": -94.3
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10063,
+      "number": "B0082",
+      "team_name": "Fort Worth Area Homeschool Robotics",
+      "robot_name": "TBD",
+      "organization": "Fort Worth Area Homeschool",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Fort Worth",
+        "region": "Texas",
+        "postcode": "76123",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.6,
+          "lon": -97.4
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10069,
+      "number": "B0088",
+      "team_name": "Bastrop High School",
+      "robot_name": "unknown",
+      "organization": "Bastrop High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Bastrop",
+        "region": "Texas",
+        "postcode": "78602",
+        "country": "United States",
+        "coordinates": {
+          "lat": 30.1,
+          "lon": -97.3
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10072,
+      "number": "B0091",
+      "team_name": "The BRATS",
+      "robot_name": "BRAT 10",
+      "organization": "Hawkins High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Hawkins",
+        "region": "Texas",
+        "postcode": "75765",
+        "country": "United States",
+        "coordinates": {
+          "lat": 0,
+          "lon": 0
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10096,
+      "number": "B0097",
+      "team_name": "Metro Homeschool Robotics",
+      "robot_name": "Undecided",
+      "organization": "Metro Homeschool",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Blue Springs",
+        "region": "Missouri",
+        "postcode": "64015",
+        "country": "United States",
+        "coordinates": {
+          "lat": 39,
+          "lon": -94.3
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10201,
+      "number": "B0100",
+      "team_name": "Full Metal Jackets",
+      "robot_name": "Rockbot",
+      "organization": "Rockwall High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Rockwall",
+        "region": "Texas",
+        "postcode": "75087",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.9,
+          "lon": -96.4
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10204,
+      "number": "B0103",
+      "team_name": "Krum High School Robotics",
+      "robot_name": "K.R.A.P. (Krum Robot Attempting Percision)",
+      "organization": "Krum High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Krum",
+        "region": "Texas",
+        "postcode": "76249",
+        "country": "United States",
+        "coordinates": {
+          "lat": 33.3,
+          "lon": -97.3
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10207,
+      "number": "B0106",
+      "team_name": "Seagoville High School",
+      "robot_name": "Dragons",
+      "organization": "Seagoville High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Dallas",
+        "region": "Texas",
+        "postcode": "75253",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.7,
+          "lon": -96.6
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10210,
+      "number": "B0109",
+      "team_name": "TEACH",
+      "robot_name": "TEACH",
+      "organization": "TEACH",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Denton",
+        "region": "Texas",
+        "postcode": "76209",
+        "country": "United States",
+        "coordinates": {
+          "lat": 33.2,
+          "lon": -97.1
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10213,
+      "number": "B0112",
+      "team_name": "Krum High School Robotics",
+      "robot_name": "K.R.A.P. (Krum Robot Attempting Precision)",
+      "organization": "Krum High School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Krum",
+        "region": "Texas",
+        "postcode": "76249",
+        "country": "United States",
+        "coordinates": {
+          "lat": 33.3,
+          "lon": -97.3
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    },
+    {
+      "id": 10216,
+      "number": "B0115",
+      "team_name": "Climax-Shelly Public School",
+      "robot_name": "Arnie",
+      "organization": "Climax-Shelly Public School",
+      "location": {
+        "venue": null,
+        "address_1": "",
+        "address_2": null,
+        "city": "Climax",
+        "region": "Minnesota",
+        "postcode": "56523",
+        "country": "United States",
+        "coordinates": {
+          "lat": 47.7,
+          "lon": -96.9
+        }
+      },
+      "registered": false,
+      "program": {
+        "id": 13,
+        "name": "BEST",
+        "code": "BEST"
+      },
+      "grade": "High School"
+    }
+  ]
+}

@@ -1,0 +1,2212 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams?page=1",
+        "from": 1,
+        "last_page": 4435,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams?page=4435",
+        "next_page_url": "https://www.robotevents.com/api/v2/teams?page=2",
+        "path": "https://www.robotevents.com/api/v2/teams",
+        "per_page": 25,
+        "prev_page_url": null,
+        "to": 25,
+        "total": 110874
+    },
+    "data": [
+        {
+            "id": 151461,
+            "number": "AA1",
+            "team_name": "EIABOTICS",
+            "robot_name": "",
+            "organization": "Universidad EIA",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Medellin",
+                "region": null,
+                "postcode": "055427",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 6.2,
+                    "lon": -75.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 67381,
+            "number": "AAAA1",
+            "team_name": "Ytown heroes",
+            "robot_name": "Wreck it Ralph",
+            "organization": "IEEE YSU student chapter",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Youngstown",
+                "region": "Ohio",
+                "postcode": "44555",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 41.1,
+                    "lon": -80.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 168597,
+            "number": "AASU1",
+            "team_name": "AASU-Kuwait-1",
+            "robot_name": null,
+            "organization": "ABDULLAH AL SALEM UNIVERSITY (AASU)",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Kuwait City",
+                "region": null,
+                "postcode": "00413",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.4,
+                    "lon": 48
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 92994,
+            "number": "AATU7",
+            "team_name": "Aatu",
+            "robot_name": "Aatubot",
+            "organization": null,
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Hurst",
+                "region": "Texas",
+                "postcode": "76054",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 32.8,
+                    "lon": -97.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 121824,
+            "number": "ABS",
+            "team_name": "ABS |ROBOTICS|",
+            "robot_name": "",
+            "organization": "University of Calgary",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Calgary",
+                "region": "Alberta",
+                "postcode": "T3H 4K2",
+                "country": "Canada",
+                "coordinates": {
+                    "lat": 51,
+                    "lon": -114.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 68070,
+            "number": "ACE4",
+            "team_name": "Space Cadets",
+            "robot_name": "WAGAMAMA",
+            "organization": "Bunker Hill Community College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Boston",
+                "region": "Massachusetts",
+                "postcode": "02129",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 42.4,
+                    "lon": -71.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 9721,
+            "number": "ACME",
+            "team_name": "ACME Robotics",
+            "robot_name": null,
+            "organization": "The Potomac School / University of Maryland",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Mclean",
+                "region": "Virginia",
+                "postcode": "22101",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.9,
+                    "lon": -77.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 147440,
+            "number": "ACU1",
+            "team_name": "ACU Robotics 1",
+            "robot_name": null,
+            "organization": "Abilene Christian University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Abilene",
+                "region": "Texas",
+                "postcode": "79699",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 32.4,
+                    "lon": -99.7
+                }
+            },
+            "registered": true,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 147441,
+            "number": "ACU2",
+            "team_name": "ACU Robotics 2",
+            "robot_name": null,
+            "organization": "Abilene Christian University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Abilene",
+                "region": "Texas",
+                "postcode": "79699",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 32.4,
+                    "lon": -99.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 120998,
+            "number": "ADU11",
+            "team_name": "ADU-MEC",
+            "robot_name": "ADUMEC",
+            "organization": "Abu Dhabi University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Abu Dhabi",
+                "region": null,
+                "postcode": "59911",
+                "country": "United Arab Emirates",
+                "coordinates": {
+                    "lat": 24.4,
+                    "lon": 54.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 79804,
+            "number": "AEB3",
+            "team_name": "ShepUVex",
+            "robot_name": "Heaven",
+            "organization": "Shepherd Univeristy",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shepherdstown",
+                "region": "West Virginia",
+                "postcode": "25443",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 39.4,
+                    "lon": -77.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 121102,
+            "number": "AEGIS1",
+            "team_name": "AEGIS Robotics",
+            "robot_name": "Hephaestus",
+            "organization": "University of Texas at El Paso",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "El Paso",
+                "region": "Texas",
+                "postcode": "79968",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 31.8,
+                    "lon": -106.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 49466,
+            "number": "AESS",
+            "team_name": "AESS Estudiants",
+            "robot_name": null,
+            "organization": "Fundaci\u00f3n educaBOT",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Barcelona",
+                "region": "Barcelona",
+                "postcode": "08007",
+                "country": "Spain",
+                "coordinates": {
+                    "lat": 41.4,
+                    "lon": 2.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 54779,
+            "number": "AGM1",
+            "team_name": "AGMundet 1",
+            "robot_name": "",
+            "organization": "INS Anna Gironella de Mundet",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Barcelona",
+                "region": "Barcelona",
+                "postcode": "08035",
+                "country": "Spain",
+                "coordinates": {
+                    "lat": 41.4,
+                    "lon": 2.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 60902,
+            "number": "AGM2",
+            "team_name": "AGMundet 2",
+            "robot_name": "",
+            "organization": "INS Anna Gironella de Mundet",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Barcelona",
+                "region": "Barcelona",
+                "postcode": "08035",
+                "country": "Spain",
+                "coordinates": {
+                    "lat": 41.4,
+                    "lon": 2.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 90597,
+            "number": "AIR",
+            "team_name": "AIR",
+            "robot_name": "Striker",
+            "organization": "Aquidneck Island Robotics",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "East Greenwich",
+                "region": "Rhode Island",
+                "postcode": "02818",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 41.6,
+                    "lon": -71.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 84728,
+            "number": "AIR71",
+            "team_name": "ROBOHERO",
+            "robot_name": "EOBOHERO",
+            "organization": "Saisi Rootics Education Club Tianjin China",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Tianjin",
+                "region": "Tianjin",
+                "postcode": "300111",
+                "country": "China",
+                "coordinates": {
+                    "lat": 39.1,
+                    "lon": 117.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 138266,
+            "number": "AJMAN1",
+            "team_name": "Ajman 1",
+            "robot_name": null,
+            "organization": "Ajman University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Ajman",
+                "region": null,
+                "postcode": "346",
+                "country": "United Arab Emirates",
+                "coordinates": {
+                    "lat": 25.4,
+                    "lon": 55.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 65877,
+            "number": "ALBA",
+            "team_name": "AutomataLemonBot Alliance",
+            "robot_name": "",
+            "organization": "Team Automata / Lemon Bot Alliance",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Mesa",
+                "region": "Arizona",
+                "postcode": "85211",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 33.4,
+                    "lon": -111.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 69889,
+            "number": "ALM1",
+            "team_name": "OD5MUT",
+            "robot_name": null,
+            "organization": "Al Manar University ",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Tripoli",
+                "region": null,
+                "postcode": "1300",
+                "country": "Lebanon",
+                "coordinates": {
+                    "lat": 34.4,
+                    "lon": 35.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 7506,
+            "number": "AMES",
+            "team_name": "aMEss",
+            "robot_name": "aMEss1",
+            "organization": "Massey University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "North Shore City",
+                "region": null,
+                "postcode": "0632",
+                "country": "New Zealand",
+                "coordinates": {
+                    "lat": -36.8,
+                    "lon": 174.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "High School"
+        },
+        {
+            "id": 66582,
+            "number": "AMTA1",
+            "team_name": "Aca. Mun. Tapachula",
+            "robot_name": null,
+            "organization": "Academia Municipal de Tapachula",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Cintalapa",
+                "region": "Chiapas",
+                "postcode": "30400",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 16.7,
+                    "lon": -93.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 66583,
+            "number": "AMTA2",
+            "team_name": "Aca. Mun. Tapachula",
+            "robot_name": null,
+            "organization": "Academia Municipal de Tapachula",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Cintalapa",
+                "region": "Chiapas",
+                "postcode": "30400",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 16.7,
+                    "lon": -93.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 66584,
+            "number": "AMTA3",
+            "team_name": "Aca. Mun. Tapachula",
+            "robot_name": null,
+            "organization": "Academia Municipal de Tapachula",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Cintalapa",
+                "region": "Chiapas",
+                "postcode": "30400",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 16.7,
+                    "lon": -93.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 66585,
+            "number": "AMTA4",
+            "team_name": "Aca. Mun. Tapachula",
+            "robot_name": null,
+            "organization": "Academia Municipal de Tapachula",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Cintalapa",
+                "region": "Chiapas",
+                "postcode": "30400",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 16.7,
+                    "lon": -93.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}
+
+(venv) C:\Users\davec\gitwork\vexScrape>python main.py
+Traceback (most recent call last):
+  File "C:\Users\davec\gitwork\vexScrape\main.py", line 31, in <module>
+    list_teams()
+  File "C:\Users\davec\gitwork\vexScrape\main.py", line 22, in list_teams
+    j = robot_events_api_request("/teams", extra_params={
+  File "C:\Users\davec\gitwork\vexScrape\main.py", line 12, in robot_events_api_request
+    r = requests.get(BASE_URL + path,
+  File "C:\Users\davec\gitwork\vexScrape\venv\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\davec\gitwork\vexScrape\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+TypeError: request() got an unexpected keyword argument 'parameters'
+
+(venv) C:\Users\davec\gitwork\vexScrape>python main.py
+Found 2 High School Teams
+
+(venv) C:\Users\davec\gitwork\vexScrape>python main.py
+List Events, start=2023-01-01T00:00:00, end=2023-12-01T00:00:00
+Found 2 Events.
+
+(venv) C:\Users\davec\gitwork\vexScrape>python main.py
+List Events, start=2023-01-01T00:00:00, end=2023-12-01T00:00:00
+Found 2 Events.
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events?page=1",
+        "from": 1,
+        "last_page": 112,
+        "last_page_url": "https://www.robotevents.com/api/v2/events?page=112",
+        "next_page_url": "https://www.robotevents.com/api/v2/events?page=2",
+        "path": "https://www.robotevents.com/api/v2/events",
+        "per_page": 25,
+        "prev_page_url": null,
+        "to": 25,
+        "total": 2789
+    },
+    "data": [
+        {
+            "id": 50599,
+            "sku": "RE-VRC-22-0599",
+            "name": "Roboplanet New Year VRC Middle School In Person Qualifier, In Person Judging and Skills",
+            "start": "2023-01-02T00:00:00-05:00",
+            "end": "2023-01-02T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Roboplanet Education and Community Society",
+                "address_1": "7080 River Road",
+                "address_2": null,
+                "city": "Richmond",
+                "region": "British Columbia",
+                "postcode": "V6X 1X5",
+                "country": "Canada",
+                "coordinates": {
+                    "lat": 49.178595,
+                    "lon": -123.14409
+                }
+            },
+            "locations": {
+                "2023-01-02": {
+                    "venue": "Roboplanet Education and Community Society",
+                    "address_1": "7080 River Road",
+                    "address_2": null,
+                    "city": "Richmond",
+                    "region": "British Columbia",
+                    "postcode": "V6X 1X5",
+                    "country": "Canada",
+                    "coordinates": {
+                        "lat": 49.178595,
+                        "lon": -123.14409
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default Division",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 49717,
+            "sku": "RE-VIQC-22-9717",
+            "name": "GTACS VEX IQ Beginner Blended League, Slapshot; Traverse City, MI",
+            "start": "2023-01-03T00:00:00-05:00",
+            "end": "2023-02-02T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "St. Elizabeth Ann Seton Middle School",
+                "address_1": "1601 North Three Mile Road",
+                "address_2": null,
+                "city": "Traverse City",
+                "region": "Michigan",
+                "postcode": "49696",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 44.708991,
+                    "lon": -85.559441
+                }
+            },
+            "locations": {
+                "2023-01-03": {
+                    "venue": "St. Elizabeth Ann Seton Middle School",
+                    "address_1": "1601 North Three Mile Road",
+                    "address_2": null,
+                    "city": "Traverse City",
+                    "region": "Michigan",
+                    "postcode": "49696",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 44.708991,
+                        "lon": -85.559441
+                    }
+                },
+                "2023-01-09": {
+                    "venue": "St. Elizabeth Ann Seton Middle School",
+                    "address_1": "1601 North Three Mile Road",
+                    "address_2": null,
+                    "city": "Traverse City",
+                    "region": "Michigan",
+                    "postcode": "49696",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 44.708991,
+                        "lon": -85.559441
+                    }
+                },
+                "2023-01-25": {
+                    "venue": "St. Elizabeth Ann Seton Middle School",
+                    "address_1": "1601 North Three Mile Road",
+                    "address_2": null,
+                    "city": "Traverse City",
+                    "region": "Michigan",
+                    "postcode": "49696",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 44.708991,
+                        "lon": -85.559441
+                    }
+                },
+                "2023-02-02": {
+                    "venue": "St. Elizabeth Ann Seton Middle School",
+                    "address_1": "1601 North Three Mile Road",
+                    "address_2": null,
+                    "city": "Traverse City",
+                    "region": "Michigan",
+                    "postcode": "49696",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 44.708991,
+                        "lon": -85.559441
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 50090,
+            "sku": "RE-VIQC-22-0090",
+            "name": "The Children's House Montessori VEX IQ Beginner Blended League, Slapshot; Traverse City, MI",
+            "start": "2023-01-05T00:00:00-05:00",
+            "end": "2023-01-26T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "The Children's House - An Independent Montessori School",
+                "address_1": "5363 North Long Lake Road",
+                "address_2": null,
+                "city": "Traverse City",
+                "region": "Michigan",
+                "postcode": "49685",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 44.744198,
+                    "lon": -85.682251
+                }
+            },
+            "locations": {
+                "2023-01-05": {
+                    "venue": "The Children's House - An Independent Montessori School",
+                    "address_1": "5363 North Long Lake Road",
+                    "address_2": null,
+                    "city": "Traverse City",
+                    "region": "Michigan",
+                    "postcode": "49685",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 44.744198,
+                        "lon": -85.682251
+                    }
+                },
+                "2023-01-12": {
+                    "venue": "The Children's House - An Independent Montessori School",
+                    "address_1": "5363 North Long Lake Road",
+                    "address_2": null,
+                    "city": "Traverse City",
+                    "region": "Michigan",
+                    "postcode": "49685",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 44.744198,
+                        "lon": -85.682251
+                    }
+                },
+                "2023-01-19": {
+                    "venue": "The Children's House - An Independent Montessori School",
+                    "address_1": "5363 North Long Lake Road",
+                    "address_2": null,
+                    "city": "Traverse City",
+                    "region": "Michigan",
+                    "postcode": "49685",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 44.744198,
+                        "lon": -85.682251
+                    }
+                },
+                "2023-01-26": {
+                    "venue": "The Children's House - An Independent Montessori School",
+                    "address_1": "5363 North Long Lake Road",
+                    "address_2": null,
+                    "city": "Traverse City",
+                    "region": "Michigan",
+                    "postcode": "49685",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 44.744198,
+                        "lon": -85.682251
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 50634,
+            "sku": "RE-VIQC-22-0634",
+            "name": "KCS Elem VIQC Blended Qualification Tournament @ Sissonville Middle School #2",
+            "start": "2023-01-05T00:00:00-05:00",
+            "end": "2023-01-05T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "Sissonville Middle School",
+                "address_1": "100 Middle School Lane",
+                "address_2": null,
+                "city": "Charleston",
+                "region": "West Virginia",
+                "postcode": "25312",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.463964,
+                    "lon": -81.669259
+                }
+            },
+            "locations": {
+                "2023-01-05": {
+                    "venue": "Sissonville Middle School",
+                    "address_1": "100 Middle School Lane",
+                    "address_2": null,
+                    "city": "Charleston",
+                    "region": "West Virginia",
+                    "postcode": "25312",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 38.463964,
+                        "lon": -81.669259
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default Division",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 47973,
+            "sku": "RE-VRC-22-7973",
+            "name": "Millard North Vex Expo (HS) Tournament - Spin Up",
+            "start": "2023-01-06T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Millard North High School",
+                "address_1": "1010 South 144th Street",
+                "address_2": null,
+                "city": "Omaha",
+                "region": "Nebraska",
+                "postcode": "68154",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 41.250927,
+                    "lon": -96.141146
+                }
+            },
+            "locations": {
+                "2023-01-06": {
+                    "venue": "Millard North High School",
+                    "address_1": "1010 South 144th Street",
+                    "address_2": null,
+                    "city": "Omaha",
+                    "region": "Nebraska",
+                    "postcode": "68154",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 41.250927,
+                        "lon": -96.141146
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 48411,
+            "sku": "RE-VIQC-22-8411",
+            "name": "VIQC, Jr Searider 1st Annual VEX IQ Tournament, ES&MS, In-Person, with Standard Judging",
+            "start": "2023-01-06T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "Wai\u02bbanae Intermediate School",
+                "address_1": "85-626 Farrington Highway",
+                "address_2": null,
+                "city": "Waianae",
+                "region": "Hawaii",
+                "postcode": "96792",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 21.452941,
+                    "lon": -158.192456
+                }
+            },
+            "locations": {
+                "2023-01-06": {
+                    "venue": "Wai\u02bbanae Intermediate School",
+                    "address_1": "85-626 Farrington Highway",
+                    "address_2": null,
+                    "city": "Waianae",
+                    "region": "Hawaii",
+                    "postcode": "96792",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 21.452941,
+                        "lon": -158.192456
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default Division",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 48784,
+            "sku": "RE-VRC-22-8784",
+            "name": "Wranglerbot 5.0 (VRC MS)",
+            "start": "2023-01-06T00:00:00-05:00",
+            "end": "2023-01-06T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Wilbur Middle School",
+                "address_1": "340 North Tyler Road",
+                "address_2": null,
+                "city": "Wichita",
+                "region": "Kansas",
+                "postcode": "67212",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 37.688782,
+                    "lon": -97.441516
+                }
+            },
+            "locations": {
+                "2023-01-06": {
+                    "venue": "Wilbur Middle School",
+                    "address_1": "340 North Tyler Road",
+                    "address_2": null,
+                    "city": "Wichita",
+                    "region": "Kansas",
+                    "postcode": "67212",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 37.688782,
+                        "lon": -97.441516
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 49200,
+            "sku": "RE-VRC-22-9200",
+            "name": "Pioneer Classic - VRC High School; Elyria, OH",
+            "start": "2023-01-06T00:00:00-05:00",
+            "end": "2023-01-06T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Elyria High School",
+                "address_1": "601 Middle Avenue",
+                "address_2": null,
+                "city": "Elyria",
+                "region": "Ohio",
+                "postcode": "44035",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 41.362259,
+                    "lon": -82.10828
+                }
+            },
+            "locations": {
+                "2023-01-06": {
+                    "venue": "Elyria High School",
+                    "address_1": "601 Middle Avenue",
+                    "address_2": null,
+                    "city": "Elyria",
+                    "region": "Ohio",
+                    "postcode": "44035",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 41.362259,
+                        "lon": -82.10828
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 49209,
+            "sku": "RE-VRC-22-9209",
+            "name": "VRC, Ridgevue Robotics Tournament, MS&HS, In-Person, with No Judging",
+            "start": "2023-01-06T00:00:00-05:00",
+            "end": "2023-01-06T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Ridgevue Highschool",
+                "address_1": "18800 Madison Road",
+                "address_2": null,
+                "city": "Nampa",
+                "region": "Idaho",
+                "postcode": "83687",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 43.64583,
+                    "lon": -116.562135
+                }
+            },
+            "locations": {
+                "2023-01-06": {
+                    "venue": "Ridgevue Highschool",
+                    "address_1": "18800 Madison Road",
+                    "address_2": null,
+                    "city": "Nampa",
+                    "region": "Idaho",
+                    "postcode": "83687",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 43.64583,
+                        "lon": -116.562135
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 50066,
+            "sku": "RE-VRC-22-0066",
+            "name": "Win-E-Mac MS/HS VRC Tournament",
+            "start": "2023-01-06T00:00:00-05:00",
+            "end": "2023-01-06T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Win-E-Mac School",
+                "address_1": "23130 345th Street Southeast",
+                "address_2": null,
+                "city": "Erskine",
+                "region": "Minnesota",
+                "postcode": "56535",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 47.667526,
+                    "lon": -95.981539
+                }
+            },
+            "locations": {
+                "2023-01-06": {
+                    "venue": "Win-E-Mac School",
+                    "address_1": "23130 345th Street Southeast",
+                    "address_2": null,
+                    "city": "Erskine",
+                    "region": "Minnesota",
+                    "postcode": "56535",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 47.667526,
+                        "lon": -95.981539
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 51022,
+            "sku": "RE-VRC-22-1022",
+            "name": "Bellaire Robotics MS/HS VRC Spin Up Skills Only Event",
+            "start": "2023-01-06T00:00:00-05:00",
+            "end": "2023-01-06T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Bellaire Middle/High School",
+                "address_1": "204 W. Forrest Home Ave",
+                "address_2": null,
+                "city": "Bellaire",
+                "region": "Michigan",
+                "postcode": "49615",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 44.981984,
+                    "lon": -85.212511
+                }
+            },
+            "locations": {
+                "2023-01-06": {
+                    "venue": "Bellaire Middle/High School",
+                    "address_1": "204 W. Forrest Home Ave",
+                    "address_2": null,
+                    "city": "Bellaire",
+                    "region": "Michigan",
+                    "postcode": "49615",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 44.981984,
+                        "lon": -85.212511
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 47851,
+            "sku": "RE-VRC-22-7851",
+            "name": "Potomac School VRC Tournament (HS Only)",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "1301 Potomac School Rd",
+                "address_1": "1301 Potomac School Road",
+                "address_2": null,
+                "city": "McLean",
+                "region": "Virginia",
+                "postcode": "22101",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.936343,
+                    "lon": -77.155084
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "1301 Potomac School Rd",
+                    "address_1": "1301 Potomac School Road",
+                    "address_2": null,
+                    "city": "McLean",
+                    "region": "Virginia",
+                    "postcode": "22101",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 38.936343,
+                        "lon": -77.155084
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "High School",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 47852,
+            "sku": "RE-VIQC-22-7852",
+            "name": "Potomac School VEX IQ Tournament (ES/MS)",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "1301 Potomac School Rd",
+                "address_1": "1301 Potomac School Road",
+                "address_2": null,
+                "city": "McLean",
+                "region": "Virginia",
+                "postcode": "22101",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.936343,
+                    "lon": -77.155084
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "1301 Potomac School Rd",
+                    "address_1": "1301 Potomac School Road",
+                    "address_2": null,
+                    "city": "McLean",
+                    "region": "Virginia",
+                    "postcode": "22101",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 38.936343,
+                        "lon": -77.155084
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "IQ Division",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 47910,
+            "sku": "RE-VIQC-22-7910",
+            "name": "Mountain Mania Slap Shot - ES only",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "Colbert Heights High School",
+                "address_1": "6825 Woodmont Drive",
+                "address_2": null,
+                "city": "Tuscumbia",
+                "region": "Alabama",
+                "postcode": "35674",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34.66971,
+                    "lon": -87.700364
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "Colbert Heights High School",
+                    "address_1": "6825 Woodmont Drive",
+                    "address_2": null,
+                    "city": "Tuscumbia",
+                    "region": "Alabama",
+                    "postcode": "35674",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 34.66971,
+                        "lon": -87.700364
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 47937,
+            "sku": "RE-VRC-22-7937",
+            "name": "JL Mann Spring Qualifer (HS only)",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "160 Fairforest Way",
+                "address_1": "160 Fairforest Way",
+                "address_2": null,
+                "city": "Greenville",
+                "region": "South Carolina",
+                "postcode": "29607",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34.807024,
+                    "lon": -82.337252
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "160 Fairforest Way",
+                    "address_1": "160 Fairforest Way",
+                    "address_2": null,
+                    "city": "Greenville",
+                    "region": "South Carolina",
+                    "postcode": "29607",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 34.807024,
+                        "lon": -82.337252
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 47939,
+            "sku": "RE-VIQC-22-7939",
+            "name": "2023 WV VIQC Blended Qualifier: James Rumsey Technical Inst. #1 (Martinsburg, WV)",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "James Rumsey Technical Institute",
+                "address_1": "3274 Hedgesville Road",
+                "address_2": null,
+                "city": "Martinsburg",
+                "region": "West Virginia",
+                "postcode": "25403",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 39.532696,
+                    "lon": -77.978594
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "James Rumsey Technical Institute",
+                    "address_1": "3274 Hedgesville Road",
+                    "address_2": null,
+                    "city": "Martinsburg",
+                    "region": "West Virginia",
+                    "postcode": "25403",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 39.532696,
+                        "lon": -77.978594
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 47943,
+            "sku": "RE-VRC-22-7943",
+            "name": "2023 WV VRC Blended Skills Only Event: James Rumsey Technical Inst. #1 (Martinsburg, WV)",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "James Rumsey Technical Institute",
+                "address_1": "3274 Hedgesville Road",
+                "address_2": null,
+                "city": "Martinsburg",
+                "region": "West Virginia",
+                "postcode": "25403",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 39.532696,
+                    "lon": -77.978594
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "James Rumsey Technical Institute",
+                    "address_1": "3274 Hedgesville Road",
+                    "address_2": null,
+                    "city": "Martinsburg",
+                    "region": "West Virginia",
+                    "postcode": "25403",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 39.532696,
+                        "lon": -77.978594
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 47970,
+            "sku": "RE-VRC-22-7970",
+            "name": "VRC, Robolabs Tournament #2, Blended MS&HS, In-Person, with Standard Judging",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Dublin Robotics Club",
+                "address_1": "6500 Dublin Boulevard",
+                "address_2": null,
+                "city": "Dublin",
+                "region": "California",
+                "postcode": "94568",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 37.703416,
+                    "lon": -121.909887
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "Dublin Robotics Club",
+                    "address_1": "6500 Dublin Boulevard",
+                    "address_2": null,
+                    "city": "Dublin",
+                    "region": "California",
+                    "postcode": "94568",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 37.703416,
+                        "lon": -121.909887
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 48027,
+            "sku": "RE-VRC-22-8027",
+            "name": "Potomac School VRC Tournament (MS Only)",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "1301 Potomac School Rd",
+                "address_1": "1301 Potomac School Road",
+                "address_2": null,
+                "city": "McLean",
+                "region": "Virginia",
+                "postcode": "22101",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.936343,
+                    "lon": -77.155084
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "1301 Potomac School Rd",
+                    "address_1": "1301 Potomac School Road",
+                    "address_2": null,
+                    "city": "McLean",
+                    "region": "Virginia",
+                    "postcode": "22101",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 38.936343,
+                        "lon": -77.155084
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Middle School",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 48050,
+            "sku": "RE-VIQC-22-8050",
+            "name": "Sacred Heart/Southland VEX IQ Tournament ES/MS",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "Southland MS/HS",
+                "address_1": "200 Water Street NW",
+                "address_2": null,
+                "city": "Adams",
+                "region": "Minnesota",
+                "postcode": "55909",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 43.568123,
+                    "lon": -92.716475
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "Southland MS/HS",
+                    "address_1": "200 Water Street NW",
+                    "address_2": null,
+                    "city": "Adams",
+                    "region": "Minnesota",
+                    "postcode": "55909",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 43.568123,
+                        "lon": -92.716475
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 48104,
+            "sku": "RE-VIQC-22-8104",
+            "name": "MCCC/Knabush Slapshot Winter VIQC MS Tournament; Monroe, MI",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "Monroe County Community College",
+                "address_1": "1555 Raisinville Rd",
+                "address_2": null,
+                "city": "Monroe",
+                "region": "Michigan",
+                "postcode": "48161",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 41.91231,
+                    "lon": -83.472049
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "Monroe County Community College",
+                    "address_1": "1555 Raisinville Rd",
+                    "address_2": null,
+                    "city": "Monroe",
+                    "region": "Michigan",
+                    "postcode": "48161",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 41.91231,
+                        "lon": -83.472049
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 48105,
+            "sku": "RE-VIQC-22-8105",
+            "name": "MCCC/Knabush Slapshot Winter VIQC ES Tournament; Monroe, MI",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "Monroe County Community College",
+                "address_1": "1555 Raisinville Rd",
+                "address_2": null,
+                "city": "Monroe",
+                "region": "Michigan",
+                "postcode": "48161",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 41.91231,
+                    "lon": -83.472049
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "Monroe County Community College",
+                    "address_1": "1555 Raisinville Rd",
+                    "address_2": null,
+                    "city": "Monroe",
+                    "region": "Michigan",
+                    "postcode": "48161",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 41.91231,
+                        "lon": -83.472049
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 48300,
+            "sku": "RE-VRC-22-8300",
+            "name": "New Year Games Spin Up (Blend VRC)",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Waltrip High School",
+                "address_1": "1900 West 34th Street",
+                "address_2": null,
+                "city": "Houston",
+                "region": "Texas",
+                "postcode": "77018",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 29.818579,
+                    "lon": -95.431121
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "Waltrip High School",
+                    "address_1": "1900 West 34th Street",
+                    "address_2": null,
+                    "city": "Houston",
+                    "region": "Texas",
+                    "postcode": "77018",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 29.818579,
+                        "lon": -95.431121
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 48487,
+            "sku": "RE-VRC-22-8487",
+            "name": "Great Valley Middle School New Year's Spin Up VRC Qualifier (MS Only)",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 173,
+                "name": "VRC 2022-2023: Spin Up",
+                "code": null
+            },
+            "program": {
+                "id": 1,
+                "name": "VEX V5 Robotics Competition",
+                "code": "V5RC"
+            },
+            "location": {
+                "venue": "Great Valley Middle School",
+                "address_1": "255 Phoenixville Pike",
+                "address_2": null,
+                "city": "Malvern",
+                "region": "Pennsylvania",
+                "postcode": "19355",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.059006,
+                    "lon": -75.564605
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "Great Valley Middle School",
+                    "address_1": "255 Phoenixville Pike",
+                    "address_2": null,
+                    "city": "Malvern",
+                    "region": "Pennsylvania",
+                    "postcode": "19355",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 40.059006,
+                        "lon": -75.564605
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 48568,
+            "sku": "RE-VIQC-22-8568",
+            "name": "Riverside Christian School ES/MS VEXIQ Tournament",
+            "start": "2023-01-07T00:00:00-05:00",
+            "end": "2023-01-07T00:00:00-05:00",
+            "season": {
+                "id": 174,
+                "name": "VIQC 2022-2023: Slapshot",
+                "code": null
+            },
+            "program": {
+                "id": 41,
+                "name": "VEX IQ Robotics Competition",
+                "code": "VIQRC"
+            },
+            "location": {
+                "venue": "Riverside Christian School",
+                "address_1": "610 2nd Avenue Northeast",
+                "address_2": null,
+                "city": "East Grand Forks",
+                "region": "Minnesota",
+                "postcode": "56721",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 47.930675,
+                    "lon": -97.016444
+                }
+            },
+            "locations": {
+                "2023-01-07": {
+                    "venue": "Riverside Christian School",
+                    "address_1": "610 2nd Avenue Northeast",
+                    "address_2": null,
+                    "city": "East Grand Forks",
+                    "region": "Minnesota",
+                    "postcode": "56721",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 47.930675,
+                        "lon": -97.016444
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        }
+    ]
+}

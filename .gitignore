@@ -1,0 +1,9 @@
+venv
+.pycharm
+.idea
+*.pyc
+.ipynb_checkpoints
+*creds.json
+.streamlit
+__pycache__
+.dlt/secrets.toml

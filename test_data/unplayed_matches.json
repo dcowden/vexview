@@ -1,0 +1,2465 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https://www.robotevents.com/api/v2/events/56635/divisions/1/matches?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://www.robotevents.com/api/v2/events/56635/divisions/1/matches?page=1",
+    "next_page_url": null,
+    "path": "https://www.robotevents.com/api/v2/events/56635/divisions/1/matches",
+    "per_page": 50,
+    "prev_page_url": null,
+    "to": 36,
+    "total": 36
+  },
+  "data": [
+    {
+      "id": 86182512,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": "2024-10-26T09:00:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 116681,
+                "name": "99322A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 54334,
+                "name": "916A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182513,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 2,
+      "scheduled": "2024-10-26T09:05:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #2",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 141969,
+                "name": "26468C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129400,
+                "name": "2833A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182514,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 3,
+      "scheduled": "2024-10-26T09:10:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #3",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119996,
+                "name": "99322C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141968,
+                "name": "26468B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182515,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 4,
+      "scheduled": "2024-10-26T09:15:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #4",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 156990,
+                "name": "10693A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 142292,
+                "name": "44252C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 144129,
+                "name": "31617A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182516,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 5,
+      "scheduled": "2024-10-26T09:20:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #5",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 71671,
+                "name": "9880C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 119359,
+                "name": "26468A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182517,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 6,
+      "scheduled": "2024-10-26T09:25:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #6",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119995,
+                "name": "99322B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63609,
+                "name": "4825A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63999,
+                "name": "9880B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 157005,
+                "name": "31617Z",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182518,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 7,
+      "scheduled": "2024-10-26T09:30:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #7",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142292,
+                "name": "44252C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182519,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 8,
+      "scheduled": "2024-10-26T09:35:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #8",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 116681,
+                "name": "99322A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 141969,
+                "name": "26468C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 156990,
+                "name": "10693A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182520,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 9,
+      "scheduled": "2024-10-26T09:40:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #9",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 144129,
+                "name": "31617A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 157005,
+                "name": "31617Z",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63609,
+                "name": "4825A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182521,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 10,
+      "scheduled": "2024-10-26T09:45:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #10",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 119996,
+                "name": "99322C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119995,
+                "name": "99322B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182522,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 11,
+      "scheduled": "2024-10-26T09:50:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #11",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 141968,
+                "name": "26468B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129400,
+                "name": "2833A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 71671,
+                "name": "9880C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182523,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 12,
+      "scheduled": "2024-10-26T09:55:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #12",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63999,
+                "name": "9880B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 54334,
+                "name": "916A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119359,
+                "name": "26468A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182524,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 13,
+      "scheduled": "2024-10-26T10:00:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #13",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141969,
+                "name": "26468C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142292,
+                "name": "44252C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182525,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 14,
+      "scheduled": "2024-10-26T10:05:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #14",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 156990,
+                "name": "10693A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 71671,
+                "name": "9880C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 119996,
+                "name": "99322C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182526,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 15,
+      "scheduled": "2024-10-26T10:10:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #15",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63609,
+                "name": "4825A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 141968,
+                "name": "26468B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182527,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 16,
+      "scheduled": "2024-10-26T10:15:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #16",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 54334,
+                "name": "916A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 119995,
+                "name": "99322B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 144129,
+                "name": "31617A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182528,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 17,
+      "scheduled": "2024-10-26T10:20:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #17",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129400,
+                "name": "2833A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 157005,
+                "name": "31617Z",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 116681,
+                "name": "99322A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182529,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 18,
+      "scheduled": "2024-10-26T10:25:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #18",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63999,
+                "name": "9880B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 119359,
+                "name": "26468A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182530,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 19,
+      "scheduled": "2024-10-26T10:30:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #19",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 141969,
+                "name": "26468C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 54334,
+                "name": "916A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 119996,
+                "name": "99322C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182531,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 20,
+      "scheduled": "2024-10-26T10:35:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #20",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63609,
+                "name": "4825A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182532,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 21,
+      "scheduled": "2024-10-26T10:40:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #21",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 157005,
+                "name": "31617Z",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142292,
+                "name": "44252C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119359,
+                "name": "26468A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141968,
+                "name": "26468B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182533,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 22,
+      "scheduled": "2024-10-26T10:45:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #22",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 116681,
+                "name": "99322A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63999,
+                "name": "9880B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182534,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 23,
+      "scheduled": "2024-10-26T10:50:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #23",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 144129,
+                "name": "31617A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 71671,
+                "name": "9880C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182535,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 24,
+      "scheduled": "2024-10-26T10:55:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #24",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119995,
+                "name": "99322B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 129400,
+                "name": "2833A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 156990,
+                "name": "10693A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182536,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 25,
+      "scheduled": "2024-10-26T11:00:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #25",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 157005,
+                "name": "31617Z",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182537,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 26,
+      "scheduled": "2024-10-26T11:05:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #26",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 71671,
+                "name": "9880C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63609,
+                "name": "4825A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 116681,
+                "name": "99322A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142292,
+                "name": "44252C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182538,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 27,
+      "scheduled": "2024-10-26T11:10:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #27",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119995,
+                "name": "99322B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141969,
+                "name": "26468C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182539,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 28,
+      "scheduled": "2024-10-26T11:15:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #28",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 141968,
+                "name": "26468B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 156990,
+                "name": "10693A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 54334,
+                "name": "916A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182540,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 29,
+      "scheduled": "2024-10-26T11:20:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #29",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119359,
+                "name": "26468A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 144129,
+                "name": "31617A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129400,
+                "name": "2833A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182541,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 30,
+      "scheduled": "2024-10-26T11:25:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #30",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63999,
+                "name": "9880B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 119996,
+                "name": "99322C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182542,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 31,
+      "scheduled": "2024-10-26T11:30:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #31",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 156990,
+                "name": "10693A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 73058,
+                "name": "3796C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 154603,
+                "name": "44252R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63609,
+                "name": "4825A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182543,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 32,
+      "scheduled": "2024-10-26T11:35:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #32",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119359,
+                "name": "26468A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 63748,
+                "name": "3796B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 119995,
+                "name": "99322B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 116681,
+                "name": "99322A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182544,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 33,
+      "scheduled": "2024-10-26T11:40:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #33",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 144129,
+                "name": "31617A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141968,
+                "name": "26468B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 63999,
+                "name": "9880B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141969,
+                "name": "26468C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182545,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 34,
+      "scheduled": "2024-10-26T11:45:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #34",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 103604,
+                "name": "3796E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129438,
+                "name": "8926W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 118513,
+                "name": "44252A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 52902,
+                "name": "9880A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182546,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 35,
+      "scheduled": "2024-10-26T11:50:00-04:00",
+      "started": null,
+      "field": "Garnet",
+      "scored": false,
+      "name": "Qualifier #35",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 142292,
+                "name": "44252C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 129400,
+                "name": "2833A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 110304,
+                "name": "3796F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 119996,
+                "name": "99322C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    },
+    {
+      "id": 86182547,
+      "event": {
+        "id": 56635,
+        "name": "Cocky's Cola VEX V5 Robotics Competition",
+        "code": "RE-V5RC-24-6635"
+      },
+      "division": {
+        "id": 1,
+        "name": "SpookyScarySkeletons",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 36,
+      "scheduled": "2024-10-26T11:55:00-04:00",
+      "started": null,
+      "field": "Black",
+      "scored": false,
+      "name": "Qualifier #36",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 54334,
+                "name": "916A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 71671,
+                "name": "9880C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 131221,
+                "name": "3796H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 157005,
+                "name": "31617Z",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2024-10-09T15:40:54-04:00"
+    }
+  ]
+}
