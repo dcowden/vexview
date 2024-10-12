@@ -6,6 +6,11 @@ import time
 import streamlit as st
 logger = logging.getLogger(__name__)
 
+
+def set_logger(new_logger):
+    global logger
+    logger = new_logger
+
 DATE_FORMAT="%Y-%m-%d"
 
 VEX_ACCESS_TOKEN=st.secrets['robotevents']['token']
@@ -36,6 +41,7 @@ def robot_events_api_request(path:str , extra_params={}) -> dict:
         'per_page': 250
     }
     base_params.update(extra_params)
+    logger.info(f"Request url: {path}")
     r = requests.get(path,
         headers={
             'Authorization': f"Bearer {VEX_ACCESS_TOKEN}",

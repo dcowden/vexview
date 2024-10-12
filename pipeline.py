@@ -6,7 +6,15 @@ import logging
 from datetime import datetime
 
 logger = logging.getLogger(__name__)
+loop_delay_secs=5
 
+def set_loop_delay(new_delay_secs):
+    global loop_delay_secs
+    loop_delay_secs = new_delay_secs
+
+def everyone_use_the_same_logger():
+    vex.set_logger(logger)
+    return logger
 
 
 @dlt.resource(table_name="events", write_disposition='merge', primary_key='id')
@@ -68,21 +76,21 @@ def sync():
     if should_sync_events_and_teams(all_events):
         logger.info("Syncing Events...")
         load_info = pipeline.run(sync_events_source(all_event_ids))
-        print(load_info)
+        logger.info(load_info)
 
         logger.info("Syncing Teams...")
         load_info = pipeline.run(sync_teams_source(all_event_ids))
-        print(load_info)
+        logger.info(load_info)
 
     load_info = pipeline.run(sync_matches_source(matches_to_sync))
-    print(load_info)
+    logger.info(load_info)
 
     load_info = pipeline.run(sync_rankings_source(rankings_to_sync))
-    print(load_info)
+    logger.info(load_info)
 
     #all_matches = vex.get_matches_from_event_list(all_events,loop_delay_secs=2)
     #print(f"Got {len(all_matches)} Matches. From {len(all_events)} Events")
-
+    logger.warning("Sync Complete!")
 
 
 
