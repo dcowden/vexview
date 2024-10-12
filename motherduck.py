@@ -1,8 +1,8 @@
-from config import current_config
 import duckdb
 import polars as pl
-
-ACCESS_TOKEN=current_config['motherduck']['token']
+import streamlit as st
+#ACCESS_TOKEN=current_config['motherduck']['token']
+ACCESS_TOKEN=st.secrets['motherduck']['token']
 con = duckdb.connect(f"md:vexview?motherduck_token={ACCESS_TOKEN}")
 SCHEMA_NAME='mann_2025'
 

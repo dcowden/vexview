@@ -1,14 +1,14 @@
-from config import current_config
 import requests
 import json
 import logging
 from datetime import datetime,date
 import time
+import streamlit as st
 logger = logging.getLogger(__name__)
 
 DATE_FORMAT="%Y-%m-%d"
 
-VEX_ACCESS_TOKEN=current_config['motherduck']['token']
+VEX_ACCESS_TOKEN=st.secrets['robotevents']['token']
 VEX_BASE_URL= "https://www.robotevents.com/api/v2"
 DEFAULT_DIVISION=1
 
