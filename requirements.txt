@@ -3,7 +3,6 @@ polars
 tabulate
 streamlit
 numpy
-streamlit
 streamlit-aggrid
 jupyter
 notebook
@@ -12,9 +11,7 @@ streamlit-plotly-events
 pytest
 toml
 streamlit_extras
-requests
 ordered_set
-duckdb
 polars[pyarrow]
-dlt[duckdb]
+dlt[motherduck]
 great_tables
