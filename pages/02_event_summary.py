@@ -57,13 +57,17 @@ teams_and_ranks = teams_with_opr.join(rankings,how='inner',left_on='team_id',rig
 col1, col2 = st.columns(2)
 
 with col1:
-    st.header("Rank Vs Avg Points")
+    st.header("Avg Points vs Rank")
     plot = px.scatter(rankings, x='average_points', y='rank', hover_name='team_name', size='average_points')
+    st.plotly_chart(plot)
+
+    st.header("Avg Points vs OPR")
+    plot = px.scatter(rankings, x='average_points', y='opr', hover_name='team_name', size='opr')
     st.plotly_chart(plot)
 
 with col2:
     st.header("Rank Vs OPR")
-    plot = px.scatter(teams_and_ranks, x='average_points', y='rank', hover_name='opr', size='opr')
+    plot = px.scatter(teams_and_ranks, x='rank', y='opr', hover_name='team_name', size='opr')
     st.plotly_chart(plot)
 
 st.subheader('team OPRs')
