@@ -58,11 +58,11 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.header("Avg Points vs Rank")
-    plot = px.scatter(rankings, x='average_points', y='rank', hover_name='team_name', size='average_points')
+    plot = px.scatter(teams_and_ranks, x='average_points', y='rank', hover_name='team_name', size='average_points')
     st.plotly_chart(plot)
 
     st.header("Avg Points vs OPR")
-    plot = px.scatter(rankings, x='average_points', y='opr', hover_name='team_name', size='opr')
+    plot = px.scatter(teams_and_ranks, x='average_points', y='opr', hover_name='team_name', size='opr')
     st.plotly_chart(plot)
 
 with col2:
